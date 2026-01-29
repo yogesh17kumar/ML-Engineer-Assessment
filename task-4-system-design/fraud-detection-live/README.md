@@ -9,7 +9,7 @@ The system is designed keeping **production ML engineering practices** in mind, 
 
 ## System Architecture
 <p align="center">
-  <img src="task-4-system-design/fraud-detection-live/diagram.png" width="700">
+  <img src="diagram.png" width="700">
 </p>
 
 ---
