@@ -8,7 +8,7 @@ The system is designed keeping **production ML engineering practices** in mind, 
 ---
 
 ## System Architecture
-![Fraud Detection System Architecture](live/diagram.png)
+![Fraud Detection System Architecture](fraud-detection-live/diagram.png)
 
 ---
 
