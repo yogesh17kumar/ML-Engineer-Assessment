@@ -100,6 +100,7 @@ The following metrics are used:
 A live fraud detection prototype is deployed using **Streamlit Cloud**.
 
 **Live Project Link:**  
+https://ml-engineer-assessment-mt5l9ai3jmk82s2hqdndym.streamlit.app/
 
 ---
 
