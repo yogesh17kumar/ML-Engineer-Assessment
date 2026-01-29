@@ -23,7 +23,7 @@
 - Threshold tuning without retraining
 - Achieved more than **10% performance improvement**
 - Optimized model decision boundaries  
-📄 *Detailed explanation available in `task-3/README.md`*
+📄 *Detailed explanation available in `task-3/summary.md`*
 
 ---
 
