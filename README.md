@@ -15,7 +15,7 @@
 - Identified and fixed model instability
 - Controlled randomness for reproducibility
 - Prevented data leakage issues  
-📄 *Detailed explanation available in `task-2/README.md`*
+📄 *Detailed explanation available in `task-2/summary.md`*
 
 ---
 
@@ -54,3 +54,4 @@
 
 ## Author
 **Yogesh Kumar**
+**MCA(AI-ML)**
